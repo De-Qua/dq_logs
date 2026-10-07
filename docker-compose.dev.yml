@@ -1,0 +1,5 @@
+# Run with docker compose up -d
+services:
+  dozzle:
+    ports:
+      - 8080:8080
